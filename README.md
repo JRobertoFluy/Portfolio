@@ -110,7 +110,12 @@ Sou **José Roberto Jesus da Silva**, profissional com mais de **17 anos de expe
 ## 📬 Contato
 
 📧 **E-mail:** jose.roberto.jesus@gmail.com  
-🔗 **LinkedIn:** [Clique aqui para acessar meu perfil](https://www.linkedin.com/in/joserobertojs)  
+<div align="left">
+  <a href="https://www.linkedin.com/in/jose-roberto-risk/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+  
 🌍 **Atuação:** Nacional e remota (Brasil)
 
 ---
